@@ -13,7 +13,8 @@ Update an existing budget tracker application to allow for offline access and fu
 ## Installation
 clone repo and install npm dependencies and run npm start.
 ## Usage
-None at the moment.
+Click on the link below to access the web app.
+* [Budget Tracker](https://blooming-citadel-65304.herokuapp.com/)
 ### Image:
 ![](budgetT.png)
 ## License

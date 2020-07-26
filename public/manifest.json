@@ -40,7 +40,7 @@
   "short_name": "BudgetT",
   "orientation": "portrait",
   "display": "standalone",
-  "start_url": ".",
+  "start_url": "https://blooming-citadel-65304.herokuapp.com/",
   "description": "An app that allows you to track expenses to budget your money.",
   "background_color": "#01579b",
   "theme_color": "#ffffff"
